@@ -1,5 +1,6 @@
 Respuestas a las preguntas de la practica 3
 ¿Cual es el proposito de trabajar con multiples ramas ?
+HEAD
 
 
 
@@ -11,3 +12,6 @@ Respuestas a las preguntas de la practica 3
 
 
 ¿Cu´al es la ventaja de reorganizar (rebase)?
+
+¿Que es una reorganizaci´on (rebase)?
+C4
